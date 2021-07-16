@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/vandnasharma26/social-proof-section-hub-challenge)
-- Live Site URL:  (https://your-live-site-url.com)
+- Live Site URL:  (https://vandnasharma26.github.io/social-proof-section-hub-challenge/)
 
 ## My process
 
